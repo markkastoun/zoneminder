@@ -87,6 +87,6 @@ the following steps.  While step 3 is optional, it is preferred.
    changes into a single commit.
 5. Push your branch to your fork on github (`git push origin 456-my-new-feature`)
 6. Create new Pull Request
-7. The team will then review, discuss and hopefully merge your changes.
+7. The team will then review, discuss and hopefully merge your changes
 
 [![Analytics](https://ga-beacon.appspot.com/UA-15147273-6/ZoneMinder/README.md)](https://github.com/igrigorik/ga-beacon)
